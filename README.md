@@ -1,29 +1,29 @@
 🌾 Crop Management System
-This project is a Crop Management System where users can manage crops, stores, and suppliers. The system allows suppliers to buy and sell fruits to/from stores, track the balance, and manage the storage of crops. The system is built on Object-Oriented Programming (OOP) principles in Java.
+This project is a Crop Management System where users can manage crops, stores, and suppliers. The system allows users to buy and sell fruits to/from stores, track their balance, and manage crop storage. It is built with Java using Object-Oriented Programming (OOP) principles.
 
 🚀 Features
-🌱 Crop management for fruits and vegetables
+🌱 Manage crops, including fruits and vegetables
 
-🏪 Stores for storing fruits (only)
+🏪 Stores for fruit storage
 
-💰 Manage supplier’s budget and transactions
+💰 Manage supplier budgets and transactions
 
 🔄 Buy and sell fruits between stores and suppliers
 
-🌿 Vegetable management (without storage)
+🥕 Vegetable management without storage
 
-📊 Real-time updates for transactions and crop lists
+📊 Real-time updates of crop lists and transactions
 
 🎨 Simple user interface for interaction (CLI-based)
 
 🛠 Technologies Used
-Java (Backend logic and application structure, OOP principles)
+Java (Backend logic and application structure using OOP principles)
 
 MySQL Workbench (Database management)
 
 MySQL Connector/J (Database connection for Java)
 
-Text files (For storage of data – suppliers, stores, and crops)
+Text files (For data storage – suppliers, stores, and crops)
 
 📜 Installation
 Follow the steps below to run the project locally:
@@ -33,3 +33,4 @@ bash
 Copy
 Edit
 git clone https://github.com/Kofex30/crop-management-system.git
+cd crop-management-system
