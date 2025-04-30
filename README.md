@@ -18,9 +18,7 @@ Text files (For data storage – suppliers, stores, and crops)
 ## 📜 Installation
 Follow the steps below to run the project locally:
 
-### 1️⃣ Clone the project
-bash
-Copy
-Edit
+### 1️⃣ **Clone the project**
+```sh
 git clone https://github.com/Kofex30/crop-management-system.git
 cd crop-management-system
